@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anirudha SM,
 - Budding developer from India
-- I’m currently learning to develop mobile apps
 - ------------------------
 - How to reach me,
   - Email : anirudha.mayya@gmail.com
